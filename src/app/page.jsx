@@ -1,5 +1,6 @@
-const Home = () => {
-  return <div>Hello World!</div>;
+const HomePage = () => {
+  // throw new Error("Error in HomePage");
+  return <div>Home Page</div>;
 };
 
-export default Home;
+export default HomePage;
